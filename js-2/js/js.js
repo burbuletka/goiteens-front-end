@@ -1,3 +1,6 @@
+'use strict'
+
+//1
 let name = prompt("Введіть ім'я");
 console.log(name);
 
@@ -19,6 +22,8 @@ console.log(a2);
 console.log(a3);
 console.log(a4);
 
+
+//2
 let a6 = 5 % 3
 let a7 = 3 % 5
 let a8 = 5 + '3'
@@ -30,6 +35,8 @@ alert(a8);
 alert(a9);
 alert(a10);
 
+
+//3
 const height = 23 + 'cm'
 const width = 10 + 'cm'
 const S = height * width

@@ -1,5 +1,6 @@
-// const
+'use strict'
 
+//1
 const str = 'Привіт';
 
 const number = 123;
@@ -9,7 +10,8 @@ const txt = 'true';
 const flag = true;
 
 const yearOfBirth = 2006;
-// let
+
+
 let a;
 console.log(typeof a); //undefined
 let b = 5;
